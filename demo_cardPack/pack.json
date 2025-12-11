@@ -5,7 +5,7 @@
 		{
 			"label": "Wanikani 1 - Hán tự",
     		"author": "TegaoTeam",
-    		"description": "Bộ thẻ học từ vựng Kanji Hán tự dựa trên danh sách ký tự Kanji cấp 1 của Wanikani.\nThông tin từ vựng được trích từ nền tảng tra cứu Mazii."
+    		"description": "Bộ thẻ học từ vựng Kanji Hán tự dựa trên danh sách ký tự Kanji cấp 1 của Wanikani.\nThông tin từ vựng được trích từ nền tảng tra cứu Mazii.",
 			"link": "https://raw.githubusercontent.com/watashiwalds/tegaores-contents/refs/heads/main/demo_cardPack/wanikani1_tegaoDemoDeck.json"
 		}
 	]
