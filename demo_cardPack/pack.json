@@ -1,6 +1,7 @@
 {
 	"packName": "TegaoTeam Demo Cardpack",
-	"decks": [
+	"decks": 
+	[
 		{
 			"label": "Wanikani 1 - Hán tự",
     		"author": "TegaoTeam",
