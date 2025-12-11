@@ -1,0 +1,216 @@
+{
+    "label": "Wanikani 1 - Hán tự",
+    "author": "TegaoTeam",
+    "description": "Bộ thẻ học từ vựng Kanji Hán tự dựa trên danh sách ký tự Kanji cấp 1 của Wanikani.\nThông tin từ vựng được trích từ nền tảng tra cứu Mazii.",
+    "cards": [
+        {
+            "type": "answer",
+            "front": "かわ\nセン\nXUYÊN",
+            "back": "川\nXUYÊN\nDòng nước, nước ở trong núi dũa đất chảy ra gọi là xuyên. Bây giờ đều gọi xuyên là sông cả.\nNước chảy không lúc nào ngừng là thường xuyên [常川].\nTỉnh Tứ Xuyên [四川] thường gọi tắt là tỉnh Xuyên.",
+            "answer": "川"
+        },
+        {
+            "type": "answer",
+            "front": "おお-、おお.きい、-おお.いに\nダイ、タイ\nĐẠI, THÁI",
+            "back": "大\nĐẠI, THÁI\nLớn.\nTiếng nói gộp. Như đại phàm [大凡] hết thẩy, đại khái [大概], v.v.\nTiếng nói tôn trọng người. Như khen sự trước tác của người là đại tác [大作] nghĩa là văn chương sách vở làm ra to tát rộng lớn lắm. Các bậc trên như cha, anh, quan trưởng cũng gọi là đại nhân [大人]. Anh lớn nhất gọi là đại [大].\nCho là to.\nHơn.\nMột âm là thái. Như thái hòa [大和], thái cực [大極], thái lao [大牢], v.v. đều cùng âm nghĩa như chữ thái [太].",
+            "answer": "大"
+        },
+        {
+            "type": "answer",
+            "front": "とお、と\nジュウ、ジッ、ジュッ\nTHẬP",
+            "back": "十\nTHẬP\nMười.\nĐủ hết. Như thập thành [十成], thập toàn [十全] vẹn đủ cả mười, ý nói được đầy đủ cả.",
+            "answer": "十"
+        },
+        {
+            "type": "answer",
+            "front": "かた.る、かた.らう\nゴ\nNGỮ, NGỨ",
+            "back": "語\nNGỮ, NGỨ\nNói, nói nhỏ. Như ngẫu ngữ [偶語] câu nói ngẫu nhiên, tư ngữ [私語] nói riêng.\nCâu nói có đủ ý nghĩa tinh vi cũng gọi là ngữ. Như thành ngữ [成語] câu nói đã dùng, ai cũng dùng được, lời ngắn mà có đủ ý nghĩa, ngữ lục [語錄] bản chép các lời nói hay. Như các học trò chép các lời đức Khổng Tử đã nói lại gọi là bộ Luận ngữ [論語].\nRa hiệu. Như thủ ngữ [手語] lấy tay ra hiệu.\nMột âm là ngứ. Bảo. Như cư ngộ ngứ nhữ [居吾語汝] ngồi đấy ta bảo mày.",
+            "answer": "語"
+        },
+        {
+            "type": "answer",
+            "front": "ここの、ここの.つ\nキュウ、ク\nCỬU, CƯU",
+            "back": "九\nCỬU, CƯU\nChín, tên số đếm.\nMột âm là cưu [九] họp. Luận ngữ [論語] : Hoàn Công cửu hợp chư hầu, bất dĩ binh xa, Quản Trọng chi lực dã [桓公九合諸侯，不以兵車，管仲之力也] (Hiến vấn [憲問]) Hoàn Công chín lần họp chư hầu mà không phải dùng võ lực, đó là tài sức của Quản Trọng. Cùng nghĩa với chữ củ [糾].",
+            "answer": "九"
+        },
+        {
+            "type": "answer",
+            "front": "やま\nサン、セン\nSAN, SƠN",
+            "back": "山\nSAN, SƠN\nNúi, giữa chỗ đất phẳng có chỗ cao gồ lên, hoặc toàn đất, hoặc toàn đá, hoặc lẫn cả đất cả đá nữa, cao ngất gọi là núi, thuần đất mà thấp gọi là đồi. Vì trong tim đất phun lửa ra mà thành núi gọi là hỏa san [火山] núi lửa.\nMồ mả. Như san lăng [山陵], san hướng [山向] đều là tên gọi mồ mả cả.\nNé tằm, tằm lên né gọi là thượng san [上山]. $ Cũng đọc là chữ sơn.",
+            "answer": "山"
+        },
+        {
+            "type": "answer",
+            "front": "くち\nコウ、ク\nKHẨU",
+            "back": "口\nKHẨU\nCái miệng. Phép tính sổ đinh, một nhà gọi là nhất hộ [一戶], một người gọi là nhất khẩu [一口], cho nên thường khỏi sổ đinh là hộ khẩu [戶口]. Kẻ đã thành đinh gọi là đinh khẩu [丁口].\nCon đường ra vào phải cần, các cửa ải đều gọi là khẩu, ngoài cửa ô gọi là khẩu ngoại [口外]. Hình phép ngày xưa bị đầy ra ngoài cửa ô cũng gọi là xuất khẩu [出口] đều theo nghĩa ấy cả.\nNhà Phật cho những tội bởi miệng mà ra là khẩu nghiệp [口業].",
+            "answer": "口"
+        },
+        {
+            "type": "answer",
+            "front": "した、しも、もと、さ.げる、さ.がる、くだ.る、くだ.り、くだ.す、-くだ.す、くだ.さる、お.ろす、お.りる\nカ、ゲ\nHẠ, HÁ",
+            "back": "下\nHẠ, HÁ\nDưới, đối lại với chữ thượng [上]. Phàm cái gì ở dưới đều gọi là hạ.\nBề dưới, nhời nói nhún mình với người trên. Như hạ tình [下情] tình kẻ dưới, hạ hoài [下懷] tấm lòng kẻ dưới.\nMột âm là há. Xuống, từ trên xuống dưới. Như há sơn [下山] xuống núi, há lâu [下樓] xuống lầu.\nCuốn. Như há kì [下旗] cuốn cờ, há duy [下帷] cuốn màn, v.v.",
+            "answer": "下"
+        },
+        {
+            "type": "answer",
+            "front": "なな、なな.つ、なの\nシチ\nTHẤT",
+            "back": "七\nTHẤT\nBảy, tên số đếm.\nCó nghĩa chỉ về thể văn. Như lối văn thất vấn thất đáp  [七問七答] của Mai Thừa, lối văn song thất của ta.",
+            "answer": "七"
+        },
+        {
+            "type": "answer",
+            "front": "ちから\nリョク、リキ、リイ\nLỰC",
+            "back": "力\nLỰC\nSức, khoa học nghiên cứu về sức tự động của các vật và sức bị động của các vật khác là lực học [力學].\nPhàm nơi nào tinh thần tới được đều gọi là lực. Như mục lực [目力] sức mắt.\nCái tài sức làm việc của người. Như thế lực [勢力], quyền lực [權力], v.v.\nCái của vật làm nên được cũng gọi là lực. Như bút lực [筆力] sức bút, mã lực [馬力] sức ngựa, v.v.\nChăm chỉ. Như lực điền [力田] chăm chỉ làm ruộng.\nCốt, chăm. Như lực cầu tiết kiệm [力求節儉] hết sức cầu tiết kiệm.\nLàm đầy tớ người ta cũng gọi là lực.",
+            "answer": "力"
+        },
+        {
+            "type": "answer",
+            "front": "コウ、ク、グ\nCÔNG",
+            "back": "工\nCÔNG\nKhéo, làm việc khéo gọi là công.\nNgười thợ. Phàm người nào làm nên đồ cho người dùng được đều gọi là công.\nQuan. Như thần công [臣工] nói gồm cả các quan. Trăm quan gọi là bách công [百工].\nCông xích [工尺] một tiếng gọi tắt trong phả âm nhạc thay luật lữ.",
+            "answer": "工"
+        },
+        {
+            "type": "answer",
+            "front": "ひと、-り、-と\nジン、ニン\nNHÂN",
+            "back": "人\nNHÂN\nNgười, giống khôn nhất trong loài động vật.\nTiếng đối lại với mình. Như tha nhân [他人] người khác, chúng nhân [眾人] mọi người, vô nhân ngã chi kiến [無人我之見] không có phân biệt mình với người, v.v. thấu được nghĩa này, trong đạo Phật cho là bực tu được nhân không [人空].",
+            "answer": "人"
+        },
+        {
+            "type": "answer",
+            "front": "い.る、-い.る、-い.り、い.れる、-い.れ、はい.る\nニュウ、ジュ\nNHẬP",
+            "back": "入\nNHẬP\nVào, đối lại với chữ xuất [出] ra.\nDùng vào, buộc vào. Như nhập thủ [入手], cố nhập [故入] buộc tội vào, sát nhập [詧入] thu nộp vào. Đem chỗ nọ nộp cho chỗ kia.\nĐược, khoảng tiền thu vào gọi là nhập khoản [入款].\nHợp. Như nhập điệu [入調] hợp điệu, nhập cách [入格] hợp cách.\nTiếng nhập, âm chữ có bốn âm là bình thượng khứ nhập [平上去入]. Tiếng ngắn mà gặt là tiếng nhập.",
+            "answer": "入"
+        },
+        {
+            "type": "answer",
+            "front": "ふた、ふた.つ、ふたたび\nニ、ジ\nNHỊ",
+            "back": "二\nNHỊ\nHai, tên số đếm.",
+            "answer": "二"
+        },
+        {
+            "type": "answer",
+            "front": "や、や.つ、やっ.つ、よう\nハチ\nBÁT",
+            "back": "八\nBÁT\nTám, số đếm.",
+            "answer": "八"
+        },
+        {
+            "type": "answer",
+            "front": "おんな、め\nジョ、ニョ、ニョウ\nNỮ, NỨ, NHỮ",
+            "back": "女\nNỮ, NỨ, NHỮ\nCon gái.\nSao nữ.\nMột âm là nứ. Gả con gái cho người.\nLại một âm là nhữ. Mày, cũng như chữ nhữ [汝].",
+            "answer": "女"
+        },
+        {
+            "type": "answer",
+            "front": "うえ、-うえ、うわ-、かみ、あ.げる、-あ.げる、あ.がる、-あ.がる、あ.がり、-あ.がり、のぼ.る、のぼ.り、のぼ.せる、のぼ.す、よ.す\nジョウ、ショウ、シャン\nTHƯỢNG, THƯỚNG",
+            "back": "上\nTHƯỢNG, THƯỚNG\nTrên. phàm ở trên đều gọi là thượng. Như thượng bộ [上部] bộ trên, thượng quyển [上卷] quyển trên, thượng đẳng [上等] bực trên, v.v.\nNgày xưa gọi vua là Chúa thượng [主上], gọi ông vua đang đời mình là Kim thượng [今上].\nMột âm là thướng. Lên. Như thướng đường [上堂] lên thềm.\nDâng lên. Như thướng thư [上書] dâng tờ thư, thướng biểu [上表] dâng biểu, v.v.",
+            "answer": "上"
+        },
+        {
+            "type": "answer",
+            "front": "み、み.つ、みっ.つ\nサン、ゾウ\nTAM, TÁM",
+            "back": "三\nTAM, TÁM\nBa, tên số đếm.\nMột âm là tám. Hai ba lần, đọc đi đọc lại. Như : Nam Dong tám phúc bạch khuê [南容三復白圭] ông Nam Dong đọc đi đọc lại thơ bạch khuê.",
+            "answer": "三"
+        },
+        {
+            "type": "flash",
+            "front": "川\nかわ\nセン",
+            "back": "XUYÊN\nDòng nước, nước ở trong núi dũa đất chảy ra gọi là xuyên. Bây giờ đều gọi xuyên là sông cả.\nNước chảy không lúc nào ngừng là thường xuyên [常川].\nTỉnh Tứ Xuyên [四川] thường gọi tắt là tỉnh Xuyên."
+        },
+        {
+            "type": "flash",
+            "front": "大\nおお-、おお.きい、-おお.いに\nダイ、タイ",
+            "back": "ĐẠI, THÁI\nLớn.\nTiếng nói gộp. Như đại phàm [大凡] hết thẩy, đại khái [大概], v.v.\nTiếng nói tôn trọng người. Như khen sự trước tác của người là đại tác [大作] nghĩa là văn chương sách vở làm ra to tát rộng lớn lắm. Các bậc trên như cha, anh, quan trưởng cũng gọi là đại nhân [大人]. Anh lớn nhất gọi là đại [大].\nCho là to.\nHơn.\nMột âm là thái. Như thái hòa [大和], thái cực [大極], thái lao [大牢], v.v. đều cùng âm nghĩa như chữ thái [太]."
+        },
+        {
+            "type": "flash",
+            "front": "十\nとお、と\nジュウ、ジッ、ジュッ",
+            "back": "THẬP\nMười.\nĐủ hết. Như thập thành [十成], thập toàn [十全] vẹn đủ cả mười, ý nói được đầy đủ cả."
+        },
+        {
+            "type": "flash",
+            "front": "語\nかた.る、かた.らう\nゴ",
+            "back": "NGỮ, NGỨ\nNói, nói nhỏ. Như ngẫu ngữ [偶語] câu nói ngẫu nhiên, tư ngữ [私語] nói riêng.\nCâu nói có đủ ý nghĩa tinh vi cũng gọi là ngữ. Như thành ngữ [成語] câu nói đã dùng, ai cũng dùng được, lời ngắn mà có đủ ý nghĩa, ngữ lục [語錄] bản chép các lời nói hay. Như các học trò chép các lời đức Khổng Tử đã nói lại gọi là bộ Luận ngữ [論語].\nRa hiệu. Như thủ ngữ [手語] lấy tay ra hiệu.\nMột âm là ngứ. Bảo. Như cư ngộ ngứ nhữ [居吾語汝] ngồi đấy ta bảo mày."
+        },
+        {
+            "type": "flash",
+            "front": "九\nここの、ここの.つ\nキュウ、ク",
+            "back": "CỬU, CƯU\nChín, tên số đếm.\nMột âm là cưu [九] họp. Luận ngữ [論語] : Hoàn Công cửu hợp chư hầu, bất dĩ binh xa, Quản Trọng chi lực dã [桓公九合諸侯，不以兵車，管仲之力也] (Hiến vấn [憲問]) Hoàn Công chín lần họp chư hầu mà không phải dùng võ lực, đó là tài sức của Quản Trọng. Cùng nghĩa với chữ củ [糾]."
+        },
+        {
+            "type": "flash",
+            "front": "山\nやま\nサン、セン",
+            "back": "SAN, SƠN\nNúi, giữa chỗ đất phẳng có chỗ cao gồ lên, hoặc toàn đất, hoặc toàn đá, hoặc lẫn cả đất cả đá nữa, cao ngất gọi là núi, thuần đất mà thấp gọi là đồi. Vì trong tim đất phun lửa ra mà thành núi gọi là hỏa san [火山] núi lửa.\nMồ mả. Như san lăng [山陵], san hướng [山向] đều là tên gọi mồ mả cả.\nNé tằm, tằm lên né gọi là thượng san [上山]. $ Cũng đọc là chữ sơn."
+        },
+        {
+            "type": "flash",
+            "front": "口\nくち\nコウ、ク",
+            "back": "KHẨU\nCái miệng. Phép tính sổ đinh, một nhà gọi là nhất hộ [一戶], một người gọi là nhất khẩu [一口], cho nên thường khỏi sổ đinh là hộ khẩu [戶口]. Kẻ đã thành đinh gọi là đinh khẩu [丁口].\nCon đường ra vào phải cần, các cửa ải đều gọi là khẩu, ngoài cửa ô gọi là khẩu ngoại [口外]. Hình phép ngày xưa bị đầy ra ngoài cửa ô cũng gọi là xuất khẩu [出口] đều theo nghĩa ấy cả.\nNhà Phật cho những tội bởi miệng mà ra là khẩu nghiệp [口業]."
+        },
+        {
+            "type": "flash",
+            "front": "下\nした、しも、もと、さ.げる、さ.がる、くだ.る、くだ.り、くだ.す、-くだ.す、くだ.さる、お.ろす、お.りる\nカ、ゲ",
+            "back": "HẠ, HÁ\nDưới, đối lại với chữ thượng [上]. Phàm cái gì ở dưới đều gọi là hạ.\nBề dưới, nhời nói nhún mình với người trên. Như hạ tình [下情] tình kẻ dưới, hạ hoài [下懷] tấm lòng kẻ dưới.\nMột âm là há. Xuống, từ trên xuống dưới. Như há sơn [下山] xuống núi, há lâu [下樓] xuống lầu.\nCuốn. Như há kì [下旗] cuốn cờ, há duy [下帷] cuốn màn, v.v."
+        },
+        {
+            "type": "flash",
+            "front": "七\nなな、なな.つ、なの\nシチ",
+            "back": "THẤT\nBảy, tên số đếm.\nCó nghĩa chỉ về thể văn. Như lối văn thất vấn thất đáp  [七問七答] của Mai Thừa, lối văn song thất của ta."
+        },
+        {
+            "type": "flash",
+            "front": "力\nちから\nリョク、リキ、リイ",
+            "back": "LỰC\nSức, khoa học nghiên cứu về sức tự động của các vật và sức bị động của các vật khác là lực học [力學].\nPhàm nơi nào tinh thần tới được đều gọi là lực. Như mục lực [目力] sức mắt.\nCái tài sức làm việc của người. Như thế lực [勢力], quyền lực [權力], v.v.\nCái của vật làm nên được cũng gọi là lực. Như bút lực [筆力] sức bút, mã lực [馬力] sức ngựa, v.v.\nChăm chỉ. Như lực điền [力田] chăm chỉ làm ruộng.\nCốt, chăm. Như lực cầu tiết kiệm [力求節儉] hết sức cầu tiết kiệm.\nLàm đầy tớ người ta cũng gọi là lực."
+        },
+        {
+            "type": "flash",
+            "front": "工\nコウ、ク、グ",
+            "back": "CÔNG\nKhéo, làm việc khéo gọi là công.\nNgười thợ. Phàm người nào làm nên đồ cho người dùng được đều gọi là công.\nQuan. Như thần công [臣工] nói gồm cả các quan. Trăm quan gọi là bách công [百工].\nCông xích [工尺] một tiếng gọi tắt trong phả âm nhạc thay luật lữ."
+        },
+        {
+            "type": "flash",
+            "front": "人\nひと、-り、-と\nジン、ニン",
+            "back": "NHÂN\nNgười, giống khôn nhất trong loài động vật.\nTiếng đối lại với mình. Như tha nhân [他人] người khác, chúng nhân [眾人] mọi người, vô nhân ngã chi kiến [無人我之見] không có phân biệt mình với người, v.v. thấu được nghĩa này, trong đạo Phật cho là bực tu được nhân không [人空]."
+        },
+        {
+            "type": "flash",
+            "front": "入\nい.る、-い.る、-い.り、い.れる、-い.れ、はい.る\nニュウ、ジュ",
+            "back": "NHẬP\nVào, đối lại với chữ xuất [出] ra.\nDùng vào, buộc vào. Như nhập thủ [入手], cố nhập [故入] buộc tội vào, sát nhập [詧入] thu nộp vào. Đem chỗ nọ nộp cho chỗ kia.\nĐược, khoảng tiền thu vào gọi là nhập khoản [入款].\nHợp. Như nhập điệu [入調] hợp điệu, nhập cách [入格] hợp cách.\nTiếng nhập, âm chữ có bốn âm là bình thượng khứ nhập [平上去入]. Tiếng ngắn mà gặt là tiếng nhập."
+        },
+        {
+            "type": "flash",
+            "front": "二\nふた、ふた.つ、ふたたび\nニ、ジ",
+            "back": "NHỊ\nHai, tên số đếm."
+        },
+        {
+            "type": "flash",
+            "front": "八\nや、や.つ、やっ.つ、よう\nハチ",
+            "back": "BÁT\nTám, số đếm."
+        },
+        {
+            "type": "flash",
+            "front": "女\nおんな、め\nジョ、ニョ、ニョウ",
+            "back": "NỮ, NỨ, NHỮ\nCon gái.\nSao nữ.\nMột âm là nứ. Gả con gái cho người.\nLại một âm là nhữ. Mày, cũng như chữ nhữ [汝]."
+        },
+        {
+            "type": "flash",
+            "front": "上\nうえ、-うえ、うわ-、かみ、あ.げる、-あ.げる、あ.がる、-あ.がる、あ.がり、-あ.がり、のぼ.る、のぼ.り、のぼ.せる、のぼ.す、よ.す\nジョウ、ショウ、シャン",
+            "back": "THƯỢNG, THƯỚNG\nTrên. phàm ở trên đều gọi là thượng. Như thượng bộ [上部] bộ trên, thượng quyển [上卷] quyển trên, thượng đẳng [上等] bực trên, v.v.\nNgày xưa gọi vua là Chúa thượng [主上], gọi ông vua đang đời mình là Kim thượng [今上].\nMột âm là thướng. Lên. Như thướng đường [上堂] lên thềm.\nDâng lên. Như thướng thư [上書] dâng tờ thư, thướng biểu [上表] dâng biểu, v.v."
+        },
+        {
+            "type": "flash",
+            "front": "三\nみ、み.つ、みっ.つ\nサン、ゾウ",
+            "back": "TAM, TÁM\nBa, tên số đếm.\nMột âm là tám. Hai ba lần, đọc đi đọc lại. Như : Nam Dong tám phúc bạch khuê [南容三復白圭] ông Nam Dong đọc đi đọc lại thơ bạch khuê."
+        },
+        {
+            "type": "answer",
+            "front": "ひと-、ひと.つ\nイチ、イツ\nNHẤT",
+            "back": "一\nNHẤT\nMột, là số đứng đầu các số đếm. Phàm vật gì chỉ có một đều gọi là Nhất cả.\nCùng. Như sách Trung Dung nói : Cập kì thành công nhất dã [及其成工一也] nên công cùng như nhau vậy.\nDùng về lời nói hoặc giả thế chăng. Như vạn nhất [萬一] muôn một, nhất đán [一旦] một mai, v.v.\nBao quát hết thẩy. Như nhất thiết [一切] hết thẩy, nhất khái [一概] một mực như thế cả, v.v.\nChuyên môn về một mặt. Như nhất vị [一味] một mặt, nhất ý [一意] một ý, v.v.",
+            "answer": "一"
+        },
+        {
+            "type": "flash",
+            "front": "一\nひと-、ひと.つ\nイチ、イツ",
+            "back": "NHẤT\nMột, là số đứng đầu các số đếm. Phàm vật gì chỉ có một đều gọi là Nhất cả.\nCùng. Như sách Trung Dung nói : Cập kì thành công nhất dã [及其成工一也] nên công cùng như nhau vậy.\nDùng về lời nói hoặc giả thế chăng. Như vạn nhất [萬一] muôn một, nhất đán [一旦] một mai, v.v.\nBao quát hết thẩy. Như nhất thiết [一切] hết thẩy, nhất khái [一概] một mực như thế cả, v.v.\nChuyên môn về một mặt. Như nhất vị [一味] một mặt, nhất ý [一意] một ý, v.v."
+        }
+    ]
+}
