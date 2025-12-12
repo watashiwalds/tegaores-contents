@@ -1,0 +1,381 @@
+{
+     "label": "Wanikani 2 - Hán tự",
+    "author": "TegaoTeam",
+    "description": "Bộ thẻ học từ vựng Kanji Hán tự dựa trên danh sách ký tự Kanji cấp 2 của Wanikani.\nThông tin từ vựng được trích từ nền tảng tra cứu Mazii.",
+    "cards": [
+        {
+            "type": "answer",
+            "front": "ち\nセン\nTHIÊN",
+            "back": "千\nTHIÊN\nNghìn, mười trăm là một nghìn.\nRất mực. Như thiên nan [千難] khó rất mực.",
+            "answer": "千"
+        },
+        {
+            "type": "answer",
+            "front": "みぎ\nウ、ユウ\nHỮU",
+            "back": "右\nHỮU\nBên phải.\nGiúp, cũng như chữ hữu [佑]. Như bảo hữu [保右] giúp giữ.\nBên trên. Đời xưa cho bên phải là trên. Như hữu văn hữu vũ [右文右武] trọng văn trọng võ. Vì thế nên họ sang gọi là hữu tộc [右族], nhà hào cường gọi là hào hữu [豪右], v.v.\nPhương tây. Như Sơn hữu [山右] tức là Sơn tây. Giang hữu [江右] tức là Giang tây.",
+            "answer": "右"
+        },
+        {
+            "type": "answer",
+            "front": "き、こ-\nボク、モク\nMỘC",
+            "back": "木\nMỘC\nCây, cây to dùng làm nhà cửa đồ đạc được gọi là kiều mộc [喬木], cây có cành mọc là là gần đất gọi là quán mộc [灌木].\nGỗ. Như mộc khí [木器] đồ gỗ, người chết gọi là tựu mộc [就木] nghĩa là phải bỏ vào áo quan gỗ vậy.\nTam mộc [三木] một thứ hình gông cùm.\nTiếng mộc, một thứ tiếng trong ngũ âm.\nSao mộc, một ngôi sao trong tám vì hành tinh.\nChất phác, mộc mạc.\nTrơ ra, tê dại. Như ma mộc bất nhân [麻木不仁] tê dại không cảm giác gì.",
+            "answer": "木"
+        },
+        {
+            "type": "answer",
+            "front": "サイ\nTÀI",
+            "back": "才\nTÀI\nTài, làm việc giỏi gọi là tài.\nChất. Như tài liệu [才料], cũng một nghĩa như chữ tài [材].\nVừa mới. Như cương tài [剛才] vừa rồi, tài khả [才可] mới khá.",
+            "answer": "才"
+        },
+        {
+            "type": "answer",
+            "front": "まる.い、まる、まど、まど.か、まろ.やか\nエン\nVIÊN",
+            "back": "円\nVIÊN\nViên mãn,\nTiền yên Nhật",
+            "answer": "円"
+        },
+        {
+            "type": "answer",
+            "front": "た.つ、-た.つ、た.ち-、た.てる、-た.てる、た.て-、たて-、-た.て、-だ.て、-だ.てる\nリツ、リュウ、リットル\nLẬP",
+            "back": "立\nLẬP\nĐứng thẳng.\nGây dựng. Như lập đức [立德] gây dựng nên đức tốt cho người theo sau.\nNên. Như phàm sự dự tắc lập [凡事豫則立] phàm việc gì có dự bị sẵn mới nên. Có cái tài đức nghề nghiệp thông thường để tự nuôi lấy mình gọi là thành lập [成立].\nĐặt để.\nLên ngôi.\nLập tức (ngay lập tức); lập khắc.\nToàn khối. Như lập phương [立方] vuông đứng, một vật gì vuông mà tính cả ngang dọc cao thấp gọi là lập phương.",
+            "answer": "立"
+        },
+        {
+            "type": "answer",
+            "front": "ふみ、あや\nブン、モン\nVĂN, VẤN",
+            "back": "文\nVĂN, VẤN\nVăn vẻ. Như văn thạch [文石] vân đá (đá hoa).\nVăn từ, họp nhiều chữ lại thành bài gọi là văn.\nVăn tự, bắt chước hình tượng các loài mà đặt ra chữ gọi là văn [文], gộp cả hình với tiếng gọi là tự [字].\nVăn, cái dấu vết do đạo đức lễ nhạc giáo hóa mà có vẻ đẹp đẽ rõ rệt gọi là văn. Như văn minh [文明], văn hóa [文化], v.v.\nVăn hoa, chỉ cốt bề ngoài cho đẹp, không chuộng đến sự thực gọi là văn. Như phồn văn [繁文], phù văn [浮文], v.v.\nQuan văn, các quan làm việc về văn tự gọi là quan văn.\nNgười nào có vẻ hòa nhã lễ độ gọi là văn nhã [文雅] hay văn tĩnh [文靜], v.v.\nPhép luật. Như vũ văn [舞文] múa mèn phép luật buộc người tội oan.\nĐồng tiền. Như nhất văn [一文] một đồng tiền.\nMột âm là vấn. Văn sức. Luận ngữ [論語] : Tiểu nhân chi quá dã tất vấn [小人之過也必文] (Tử Trương [子張]) Kẻ tiểu nhân tất dùng văn sức bề ngoài để che lỗi của mình.",
+            "answer": "文"
+        },
+        {
+            "type": "answer",
+            "front": "む、む.つ、むっ.つ、むい\nロク、リク\nLỤC",
+            "back": "六\nLỤC\nSáu, số đếm.",
+            "answer": "六"
+        },
+        {
+            "type": "answer",
+            "front": "ひのと\nチョウ、テイ、チン、トウ、チ\nĐINH, CHÊNH, TRANH",
+            "back": "丁\nĐINH, CHÊNH, TRANH\nCan Đinh, can thứ tư trong mười can.\nĐang. Như đang để tang cha mẹ gọi là đinh ưu [丁憂] nghĩa là đang ở lúc đau xót vậy.\nNgười. Như thành đinh [成丁] nghĩa là người đến tuổi thành nhân.\nĐã lớn, là đã phải đóng thuế. Như ta 18 tuổi phải đóng sưu vào sổ đinh gọi là đinh tịch [丁藉].\nKẻ làm lụng. Như bào đinh [庖丁] là người nấu bếp, viên đinh [園丁] là người làm vườn, v.v.\nRăn bảo kỹ càng. Như đinh ninh [丁寧] dặn đi dặn lại nhiều lần.\nChữ. Như mục bất thức đinh [目不識丁] ý nói không biết chữ hoặc không có học vấn.\nMột âm là chênh. Như phạt mộc chênh chênh [伐木丁丁] chặt cây chan chát. $ Ghi chú : Từ Nguyên [辭原] ghi âm này là tranh (trắc hành thiết [側莖切]); phạt mộc tranh tranh [伐木丁丁]",
+            "answer": "丁"
+        },
+        {
+            "type": "answer",
+            "front": "た\nデン\nĐIỀN",
+            "back": "田\nĐIỀN\nRuộng đất cầy cấy được gọi là điền [田].\nĐi săn.\nTrống lớn.\nHọ Điền.",
+            "answer": "田"
+        },
+        {
+            "type": "answer",
+            "front": "かたな、そり\nトウ\nĐAO",
+            "back": "刀\nĐAO\nCon dao.\nTiền, thứ tiền ngày xưa hình như con dao nên gọi là đao",
+            "answer": "刀"
+        },
+        {
+            "type": "answer",
+            "front": "ちい.さい、こ-、お-、さ-\nショウ\nTIỂU",
+            "back": "小\nTIỂU\nNhỏ.\nHẹp hòi. Như khí tiểu dị doanh [器小易盈] đồ hẹp dễ đầy.\nKhinh thường. Như vị miễn tiểu thị [未免小視] chưa khỏi coi là kẻ tầm thường, nghĩa là coi chẳng vào đâu cả.\nNàng hầu.",
+            "answer": "小"
+        },
+        {
+            "type": "answer",
+            "front": "ひ、-び、-か\nニチ、ジツ\nNHẬT, NHỰT",
+            "back": "日\nNHẬT, NHỰT\nMặt trời.\nNgày, một ngày một đêm gọi là nhất nhật [一日].\nBan ngày. Như nhật dĩ kế dạ [日以繼夜] ban ngày lại tiếp đến ban đêm, vãng nhật [往日] ngày hôm qua, lai nhật [來日] ngày mai, v.v.\nNước Nhật, nước Nhật Bản [日本] thường gọi tắt là nước Nhật.",
+            "answer": "日"
+        },
+        {
+            "type": "answer",
+            "front": "しろ、しら-、しろ.い\nハク、ビャク\nBẠCH",
+            "back": "白\nBẠCH\nSắc trắng.\nSạch. Như thanh bạch [清白] trong sạch.\nSáng. Tô Thức [蘇軾] : Đông phương kí bạch [東方既白] (Tiền Xích Bích phú [前赤壁賦]) Trời đã rạng đông.\nĐã minh bạch. Như kỳ oan dĩ bạch [其冤已白] nỗi oan đã tỏ.\nTrình bày, kẻ dưới thưa với người trên gọi là bạch.\nChén rượu. Như phù nhất đại bạch [浮一大白] uống cạn một chén lớn.\nTrắng không, sách không có chữ gọi là bạch quyển [白卷].\nNói đơn sơ. Như bạch thoại [白話] lối văn nói đơn sơ dễ hiểu.",
+            "answer": "白"
+        },
+        {
+            "type": "answer",
+            "front": "みず、みず-\nスイ\nTHỦY",
+            "back": "水\nTHỦY\nNước.\nSông, ngòi, khe, suối, phàm cái gì bởi nước mà thành ra đều gọi là thủy.\nSao Thủy, một ngôi sao ở gần mặt trời nhất.\nBạc đúc có thứ tốt thứ kém, gia giảm cho nó đều gọi là thân thủy [申水], thiếp thủy [貼水], v.v.",
+            "answer": "水"
+        },
+        {
+            "type": "flash",
+            "front": "千\nち\nセン",
+            "back": "千\nTHIÊN\nNghìn, mười trăm là một nghìn.\nRất mực. Như thiên nan [千難] khó rất mực."
+        },
+        {
+            "type": "flash",
+            "front": "右\nみぎ\nウ、ユウ",
+            "back": "右\nHỮU\nBên phải.\nGiúp, cũng như chữ hữu [佑]. Như bảo hữu [保右] giúp giữ.\nBên trên. Đời xưa cho bên phải là trên. Như hữu văn hữu vũ [右文右武] trọng văn trọng võ. Vì thế nên họ sang gọi là hữu tộc [右族], nhà hào cường gọi là hào hữu [豪右], v.v.\nPhương tây. Như Sơn hữu [山右] tức là Sơn tây. Giang hữu [江右] tức là Giang tây."
+        },
+        {
+            "type": "flash",
+            "front": "木\nき、こ-\nボク、モク",
+            "back": "木\nMỘC\nCây, cây to dùng làm nhà cửa đồ đạc được gọi là kiều mộc [喬木], cây có cành mọc là là gần đất gọi là quán mộc [灌木].\nGỗ. Như mộc khí [木器] đồ gỗ, người chết gọi là tựu mộc [就木] nghĩa là phải bỏ vào áo quan gỗ vậy.\nTam mộc [三木] một thứ hình gông cùm.\nTiếng mộc, một thứ tiếng trong ngũ âm.\nSao mộc, một ngôi sao trong tám vì hành tinh.\nChất phác, mộc mạc.\nTrơ ra, tê dại. Như ma mộc bất nhân [麻木不仁] tê dại không cảm giác gì."
+        },
+        {
+            "type": "flash",
+            "front": "才\nサイ",
+            "back": "才\nTÀI\nTài, làm việc giỏi gọi là tài.\nChất. Như tài liệu [才料], cũng một nghĩa như chữ tài [材].\nVừa mới. Như cương tài [剛才] vừa rồi, tài khả [才可] mới khá."
+        },
+        {
+            "type": "flash",
+            "front": "円\nまる.い、まる、まど、まど.か、まろ.やか\nエン",
+            "back": "円\nVIÊN\nViên mãn,\nTiền yên Nhật"
+        },
+        {
+            "type": "flash",
+            "front": "立\nた.つ、-た.つ、た.ち-、た.てる、-た.てる、た.て-、たて-、-た.て、-だ.て、-だ.てる\nリツ、リュウ、リットル",
+            "back": "立\nLẬP\nĐứng thẳng.\nGây dựng. Như lập đức [立德] gây dựng nên đức tốt cho người theo sau.\nNên. Như phàm sự dự tắc lập [凡事豫則立] phàm việc gì có dự bị sẵn mới nên. Có cái tài đức nghề nghiệp thông thường để tự nuôi lấy mình gọi là thành lập [成立].\nĐặt để.\nLên ngôi.\nLập tức (ngay lập tức); lập khắc.\nToàn khối. Như lập phương [立方] vuông đứng, một vật gì vuông mà tính cả ngang dọc cao thấp gọi là lập phương."
+        },
+        {
+            "type": "flash",
+            "front": "文\nふみ、あや\nブン、モン",
+            "back": "文\nVĂN, VẤN\nVăn vẻ. Như văn thạch [文石] vân đá (đá hoa).\nVăn từ, họp nhiều chữ lại thành bài gọi là văn.\nVăn tự, bắt chước hình tượng các loài mà đặt ra chữ gọi là văn [文], gộp cả hình với tiếng gọi là tự [字].\nVăn, cái dấu vết do đạo đức lễ nhạc giáo hóa mà có vẻ đẹp đẽ rõ rệt gọi là văn. Như văn minh [文明], văn hóa [文化], v.v.\nVăn hoa, chỉ cốt bề ngoài cho đẹp, không chuộng đến sự thực gọi là văn. Như phồn văn [繁文], phù văn [浮文], v.v.\nQuan văn, các quan làm việc về văn tự gọi là quan văn.\nNgười nào có vẻ hòa nhã lễ độ gọi là văn nhã [文雅] hay văn tĩnh [文靜], v.v.\nPhép luật. Như vũ văn [舞文] múa mèn phép luật buộc người tội oan.\nĐồng tiền. Như nhất văn [一文] một đồng tiền.\nMột âm là vấn. Văn sức. Luận ngữ [論語] : Tiểu nhân chi quá dã tất vấn [小人之過也必文] (Tử Trương [子張]) Kẻ tiểu nhân tất dùng văn sức bề ngoài để che lỗi của mình."
+        },
+        {
+            "type": "flash",
+            "front": "六\nむ、む.つ、むっ.つ、むい\nロク、リク",
+            "back": "六\nLỤC\nSáu, số đếm."
+        },
+        {
+            "type": "flash",
+            "front": "丁\nひのと\nチョウ、テイ、チン、トウ、チ",
+            "back": "丁\nĐINH, CHÊNH, TRANH\nCan Đinh, can thứ tư trong mười can.\nĐang. Như đang để tang cha mẹ gọi là đinh ưu [丁憂] nghĩa là đang ở lúc đau xót vậy.\nNgười. Như thành đinh [成丁] nghĩa là người đến tuổi thành nhân.\nĐã lớn, là đã phải đóng thuế. Như ta 18 tuổi phải đóng sưu vào sổ đinh gọi là đinh tịch [丁藉].\nKẻ làm lụng. Như bào đinh [庖丁] là người nấu bếp, viên đinh [園丁] là người làm vườn, v.v.\nRăn bảo kỹ càng. Như đinh ninh [丁寧] dặn đi dặn lại nhiều lần.\nChữ. Như mục bất thức đinh [目不識丁] ý nói không biết chữ hoặc không có học vấn.\nMột âm là chênh. Như phạt mộc chênh chênh [伐木丁丁] chặt cây chan chát. $ Ghi chú : Từ Nguyên [辭原] ghi âm này là tranh (trắc hành thiết [側莖切]); phạt mộc tranh tranh [伐木丁丁]"
+        },
+        {
+            "type": "flash",
+            "front": "田\nた\nデン",
+            "back": "田\nĐIỀN\nRuộng đất cầy cấy được gọi là điền [田].\nĐi săn.\nTrống lớn.\nHọ Điền."
+        },
+        {
+            "type": "flash",
+            "front": "刀\nかたな、そり\nトウ",
+            "back": "刀\nĐAO\nCon dao.\nTiền, thứ tiền ngày xưa hình như con dao nên gọi là đao"
+        },
+        {
+            "type": "flash",
+            "front": "小\nちい.さい、こ-、お-、さ-\nショウ",
+            "back": "小\nTIỂU\nNhỏ.\nHẹp hòi. Như khí tiểu dị doanh [器小易盈] đồ hẹp dễ đầy.\nKhinh thường. Như vị miễn tiểu thị [未免小視] chưa khỏi coi là kẻ tầm thường, nghĩa là coi chẳng vào đâu cả.\nNàng hầu."
+        },
+        {
+            "type": "flash",
+            "front": "日\nひ、-び、-か\nニチ、ジツ",
+            "back": "日\nNHẬT, NHỰT\nMặt trời.\nNgày, một ngày một đêm gọi là nhất nhật [一日].\nBan ngày. Như nhật dĩ kế dạ [日以繼夜] ban ngày lại tiếp đến ban đêm, vãng nhật [往日] ngày hôm qua, lai nhật [來日] ngày mai, v.v.\nNước Nhật, nước Nhật Bản [日本] thường gọi tắt là nước Nhật."
+        },
+        {
+            "type": "flash",
+            "front": "白\nしろ、しら-、しろ.い\nハク、ビャク",
+            "back": "白\nBẠCH\nSắc trắng.\nSạch. Như thanh bạch [清白] trong sạch.\nSáng. Tô Thức [蘇軾] : Đông phương kí bạch [東方既白] (Tiền Xích Bích phú [前赤壁賦]) Trời đã rạng đông.\nĐã minh bạch. Như kỳ oan dĩ bạch [其冤已白] nỗi oan đã tỏ.\nTrình bày, kẻ dưới thưa với người trên gọi là bạch.\nChén rượu. Như phù nhất đại bạch [浮一大白] uống cạn một chén lớn.\nTrắng không, sách không có chữ gọi là bạch quyển [白卷].\nNói đơn sơ. Như bạch thoại [白話] lối văn nói đơn sơ dễ hiểu."
+        },
+        {
+            "type": "flash",
+            "front": "水\nみず、みず-\nスイ",
+            "back": "水\nTHỦY\nNước.\nSông, ngòi, khe, suối, phàm cái gì bởi nước mà thành ra đều gọi là thủy.\nSao Thủy, một ngôi sao ở gần mặt trời nhất.\nBạc đúc có thứ tốt thứ kém, gia giảm cho nó đều gọi là thân thủy [申水], thiếp thủy [貼水], v.v."
+        },
+        {
+            "type": "answer",
+            "front": "たま、たま-、-だま\nギョク\nNGỌC, TÚC",
+            "back": "玉\nNGỌC, TÚC\nNgọc, đá báu.\nĐẹp. Như ngọc diện [玉面] mặt đẹp như ngọc.\nDùng để nói các bậc tôn quý. Như ngọc thể [玉體] mình ngọc, ngọc chỉ [玉趾] gót ngọc, v.v.\nVo thành. Như vương dục ngọc nhữ [王欲玉女] (Thi Kinh [詩經]) vua muốn gây dựng cho mày thành tài.\nMột âm là túc. Người thợ ngọc.\nHọ Túc.",
+            "answer": "玉"
+        },
+        {
+            "type": "answer",
+            "front": "まる、まる.める、まる.い\nガン\nHOÀN",
+            "back": "丸\nHOÀN\nViên, phàm vật gì nhỏ mà tròn đều gọi là hoàn. Như đạn hoàn [彈丸] viên đạn.\nThẳng thắn. Như tùng bách hoàn toàn [松柏丸全] cây tùng cây bách thẳng thắn.",
+            "answer": "丸"
+        },
+        {
+            "type": "answer",
+            "front": "いぬ、いぬ-\nケン\nKHUYỂN",
+            "back": "犬\nKHUYỂN\nCon chó. Tào Đường [曹唐] : Nguyện đắc hoa gian hữu nhân xuất, Miễn linh tiên khuyển phệ Lưu Lang [願得花間有人出, 免令仙犬吠劉郎] (Lưu Nguyễn động trung ngộ tiên tử [劉阮洞中遇仙子]) Mong rằng trong hoa có người ra đón, Để chó nhà tiên khỏi sủa chàng Lưu. Ngô Tất Tố dịch thơ : Dưới hoa ước có ai ra đón, Để chó nhà tiên khỏi sủa người.\nNói ý hèn hạ. Kẻ dưới đối với kẻ trên có chút công lao tự nói nhún là khuyển mã chi lao [犬馬之勞] cái công chó ngựa.",
+            "answer": "犬"
+        },
+        {
+            "type": "answer",
+            "front": "もと\nホン\nBỔN, BẢN",
+            "back": "本\nBỔN, BẢN\nGốc, một cây gọi là nhất bổn [一本].\nCỗi rễ, cỗi nguồn, cái cỗi rễ của một sự gì gọi là bổn. Như xả bổn trục mạt [捨本逐末] bỏ cỗi rễ mà theo ngọn ngành.\nTrước, vốn. Như bổn ý [本意] ý trước của tôi.\nVốn lại (nguyên lai) dùng làm lời trợ từ. Như bổn cai như thử [本該如此] vốn lại phải như thế.\nCủa mình, bổn thân [本身] thân mình, bổn quốc [本國] nước mình, bổn vị [本位] cái địa vị của mình, bổn lĩnh [本領] cái năng lực của mình, không phải cầu gì ở ngoài, v.v.\nTiền vốn, tiền gốc. Như nhất bổn vạn lợi [一本萬利] một vốn muôn lời.\nPhép ngày xưa các tập sớ tâu vua cũng gọi là bổn.\nTập, sách vở tranh vẽ bìa thiếp đều gọi là bổn cả. Như khắc bổn [刻本] bản chữ khắc. Một quyển sách cũng gọi là nhất bổn [一本]. Ta quen đọc là chữ bản.",
+            "answer": "本"
+        },
+        {
+            "type": "answer",
+            "front": "なか、うち、あた.る\nチュウ\nTRUNG, TRÚNG",
+            "back": "中\nTRUNG, TRÚNG\nGiữa, chỉ vào bộ vị trong vật thể. Như trung ương [中央] chỗ giữa, trung tâm [中心] giữa ruột, v.v.\nTrong. Như đối với nước ngoài thì gọi nước mình là trung quốc [中國], đối với các tỉnh ngoài thì gọi chỗ kinh đô là trung ương [中央], v.v.\nỞ khoảng giữa hai bên cũng gọi là trung. Như thượng, trung, hạ [上中下] trên, giữa, dưới. Người đứng giữa giới thiệu cho hai người khác gọi là trung nhân [中人] cũng do một nghĩa ấy.\nNgay, không vẹo không lệch, không quá không thiếu, cũng gọi là trung. Như trung dong [中庸] đạo phải, trung hành [中行] làm phải, trung đạo [中道] đạo chân chính không thiên bên nào v.v.\nNửa, như trung đồ [中途] nửa đường, trung dạ [中夜] nửa đêm, v.v.\nChỉ chung tất cả các chỗ. Như Ngô trung [吳中] trong đất Ngô, Thục trung [蜀中] trong đất Thục, v.v.\nMột âm là trúng.Tin. Như bắn tin gọi là xạ trúng [射中], nói đúng gọi là ngôn trúng [言中], v.v.\nBị phải. Như trúng phong [中風] bị phải gió, trúng thử [中暑] bị phải nắng, v.v.\nHợp cách. Như thi cử lấy đỗ gọi là trúng thức [中式], đồ không dùng được gọi là bất trúng dụng [不中用], v.v.\nĐầy đủ. Như chế trúng nhị thiên thạch [制中二天石] phép đủ hai nghìn thạch.\nCùng âm nghĩa như chữ trọng [仲]. Như em thứ hai gọi là trọng đệ [中第].",
+            "answer": "中"
+        },
+        {
+            "type": "answer",
+            "front": "ゆう\nセキ\nTỊCH",
+            "back": "夕\nTỊCH\nBuổi chiều tối. Lý Thương Ẩn [李商隱] : Tịch dương vô hạn hảo  [夕陽無限好] (Đăng Lạc Du nguyên [登樂遊原]) Nắng chiều đẹp vô hạn.\nĐêm.\nTiếp kiến ban đêm.\nVẹo.",
+            "answer": "夕"
+        },
+        {
+            "type": "answer",
+            "front": "ひだり\nサ、シャ\nTẢ, TÁ",
+            "back": "左\nTẢ, TÁ\nBên trái, phàm cái gì ở bên tay trái đều gọi là tả. Như hư tả dĩ đãi [虛左以待] để chừa bên trái xe để đợi người đến, ý nói cần dùng lắm.\nPhía đông. Cách định phương hướng cho phương đông là bên tay trái, nên sơn đông [山東] gọi là sơn tả [山左], giang đông [江東] gọi là giang tả [江左], v.v.\nBất tiện. Như tả kế [左計] kế không hay, hai bên không hợp nhau gọi là tương tả [相左].\nKhông được chính đính. Như tả đạo hoặc chúng [左道惑眾] đạo dối lừa chúng.\nGiáng xuống, quan bị giáng chức gọi là tả thiên [左遷].\nMột âm là tá. Giúp, cũng như chữ tá [佐].\nTiếng nói khiêm trong thư từ. Như dĩ ngu tá hữu [以娛左右] nghĩa là chỉ để làm vui cho người hầu hạ, chứ không dám nói ngay đến người mình nói vậy.\nChứng nghiệm. Như chứng tá [證左] người làm chứng.",
+            "answer": "左"
+        },
+        {
+            "type": "answer",
+            "front": "ただ.しい、ただ.す、まさ、まさ.に\nセイ、ショウ\nCHÁNH, CHÍNH",
+            "back": "正\nCHÁNH, CHÍNH\nPhải, là chánh đáng. Như chánh thức [正式] khuôn phép chánh đáng, chánh lý [正理] lẽ chánh đáng, v.v. Cái gì sai mà bảo sửa lại cho phải cũng gọi là chánh. Như khuông chánh [匡正] giúp đỡ làm cho chánh đáng.\nNgay, ở giữa. Như chánh diện [正面] mặt chánh, chánh tọa [正坐] ngồi chính giữa, chánh thinh [正廳] tòa ngồi chính giữa, v.v.\nNgay thẳng. Như công chánh [公正] công bằng ngay thẳng, các bậc hiền triết đời trước gọi là tiên chánh [先正] cũng theo nghĩa ấy.\nThuần chánh. Như chánh bạch [正白] trắng nguyên, chánh xích [正赤] đỏ nguyên, v.v.\nBực lớn nhất. Như nhạc chánh [樂正] chức quan đầu coi âm nhạc, công chánh [工正] chức quan đầu coi về công tác, v.v.\nChức chánh, bực chánh, chức chủ về một việc. Như chánh tổng [正總], phó tổng [副總] phụ giúp chánh tổng, chánh thất phẩm [正七品], tòng thất phẩm [從七品] kém phẩm chánh, v.v.\nĐúng giữa. Như tý chánh [子正] đúng giữa giờ tý, ngọ chánh [午正] đúng giữa giờ ngọ, v.v.\nTiếng giúp lời, nghĩa là, tức là. Như chánh duy đệ tử bất năng học dã [正惟弟子不能學也] tức là vì con không hay học vậy.\nVật để làm cớ.\nĐủ.\nChất chính.\nNgay ngắn.\nMong hẹn.\nPhần chính. Phần nhiều cũng đọc là chữ chính.\nMột âm là chính. Tháng đầu năm gọi là chính nguyệt [正月] tháng giêng. Ngày xưa các nhà vua họ này thay họ khác lên trị vì lại đổi tên riêng một ngày làm ngày đầu năm, nhà Thương thì dùng ngày sửu làm ngày đầu năm, v.v. gọi là chính sóc [正朔]. Ta quen đọc là chữ chính.\nCái đích tập bắn. Như chính hộc [正鵠] giữa đích, vì thế nên khuôn phép của một sự vật gì cũng gọi là chính hộc.",
+            "answer": "正"
+        },
+        {
+            "type": "answer",
+            "front": "よ、よ.つ、よっ.つ、よん\nシ\nTỨ",
+            "back": "四\nTỨ\nBốn (tên số đếm).",
+            "answer": "四"
+        },
+        {
+            "type": "answer",
+            "front": "オウ、-ノウ\nVƯƠNG, VƯỢNG",
+            "back": "王\nVƯƠNG, VƯỢNG\nVua.\nTước vương.\nTiếng gọi các tổ tiên. Như gọi ông là vương phụ [王父], bà là vương mẫu [王母], v.v.\nChư hầu đời đời lại chầu gọi là vương.\nTo, lớn.\nMột âm là vượng. Cai trị cả thiên hạ. Như dĩ đức hành nhân giả vượng [以德行仁者王] lấy đức làm nhân ấy được đến ngôi trị cả thiên hạ.\nThịnh vượng.",
+            "answer": "王"
+        },
+        {
+            "type": "answer",
+            "front": "あまつ、あめ、あま-\nテン\nTHIÊN",
+            "back": "天\nTHIÊN\nBầu trời.\nCái gì kết quả tự nhiên, sức người không thể làm được gọi là thiên. Như thiên nhiên [天然], thiên sinh [天生], v.v.\nNhà tôn giáo gọi chỗ các thần linh ở là thiên. Như thiên quốc [天國], thiên đường [天當], v.v.\nNgày. Như kim thiên [今天] hôm nay, minh thiên [明天] ngày mai.\nThì tiết trời. Như nhiệt thiên [熱天] trời nóng, lãnh thiên [冷天] trời lạnh.\nPhàm cái gì không thể thiếu được cũng gọi là thiên. Như thực vi dân thiên [食為民天] ăn là thứ cần của dân.\nĐàn bà gọi chồng là thiên, cũng gọi là sở thiên [所天].\nÔng trời, có nhiều nhà tu xưa cho trời là ngôi chúa tể cả muôn vật, giáng họa ban phúc đều quyền ở trời cả. Nhà Phật [佛] thì cho trời cũng là một loài có công tu thiện nhiều hơn, được sinh vào cõi đời sung sướng hơn người mà thôi.\nHình phạt khắc chữ chàm vào trán gọi là thiên [天].",
+            "answer": "天"
+        },
+        {
+            "type": "answer",
+            "front": "で.る、-で、だ.す、-だ.す、い.でる、い.だす\nシュツ、スイ\nXUẤT, XÚY",
+            "back": "出\nXUẤT, XÚY\nRa ngoài, đối lại với chữ nhập [入] vào.\nMở ra. Như xuất khẩu thành chương [出口成章] mở miệng nên văn chương.\nBỏ, đuổi. Như xuất thê [出妻] bỏ vợ.\nSinh ra. Như nhân tài bối xuất [人才輩出] nhân tài ra nhiều.\nPhàm cái gì tự không mà ra có thì gọi là xuất. Như xú thái bách xuất [醜態百出] lộ ra trăm thói xấu.\nHiện ra. Như hà xuất đồ [河出圖] sông hiện ra bản đồ.\nHơn. Như xuất loại bạt tụy [出類拔萃] siêu việt hơn cả mọi người.\nTiêu ra. Như nhập bất phư xuất [入不敷出] số vào chẳng bằng số ra.\nMột âm là xúy. Phàm vật gì tự nó nó ra thì đọc là xuất, vật gì tự nó không ra mà cứ bắt ra thì đọc là xúy.",
+            "answer": "出"
+        },
+        {
+            "type": "answer",
+            "front": "いつ、いつ.つ\nゴ\nNGŨ",
+            "back": "五\nNGŨ\nNăm, tên số đếm.",
+            "answer": "五"
+        },
+        {
+            "type": "answer",
+            "front": "こ、-こ、ね\nシ、ス、ツ\nTỬ, TÍ",
+            "back": "子\nTỬ, TÍ\nCon. Bất luận trai gái đều gọi là tử.\nNhà thầy, đàn ông nào có đức hạnh học vấn đều gọi là tử cả. Như Khổng-tử [孔子], Mạnh-tử [孟子], v.v. Con cháu gọi người trước cũng gọi là tiên tử [先子], vợ gọi chồng là ngoại tử [外子], chồng gọi vợ là nội tử [內子] đều là tiếng xưng hô tôn quý cả.\nGã, dùng để gọi các kẻ tầm thường. Như chu tử [舟子] chú lái đò, sĩ tử [士子] chú học trò, v.v.\nTước tử, tước thứ tư trong năm tước.\nMầm giống các loài động vật thực vật cũng gọi là tử. Như ngư tử [魚子] giống cá, tàm tử [蠶子] giống tằm, đào tử [桃子] giống đào, lý tử [李子] giống mận, v.v.\nSố lẻ, đối với số nguyên mà nói. Như phần mẫu [分母], phần tử [分子]. Phần vốn là mẫu tài [母財], tiền lãi là tử kim [子金], v.v.\nTiếng giúp lời. Như tập tử [摺子] cái cặp, tráp tử [劄子] cái thẻ, v.v.\nCó nghĩa như chữ từ [慈].\nMột âm là Tí, chi đầu trong mười hai chi. Từ mười một giờ đêm đến một giờ đêm là giờ Tí.",
+            "answer": "子"
+        },
+        {
+            "type": "answer",
+            "front": "て、て-、-て、た-\nシュ、ズ\nTHỦ",
+            "back": "手\nTHỦ\nTay.\nLàm. Như hạ thủ [下手] bắt tay làm, nhập thủ [入手] bắt tay vào, đắc thủ [得手] làm được việc, v.v.\nTài, làm nghề gì giỏi về nghề ấy gọi là thủ. Như quốc thủ [國手] tay có tài trị nước, năng thủ [能手] tay giỏi, v.v.\nTự tay làm ra. Như thủ thư [手書] chính tờ tay viết, thủ nhận [手刃] chính tay đâm, v.v.\nCầm.",
+            "answer": "手"
+        },
+        {
+            "type": "answer",
+            "front": "め、-め、ま-\nモク、ボク\nMỤC",
+            "back": "目\nMỤC\nCon mắt.\nLườm, nhìn kỹ (trố mắt nhìn).  Như cực mục [極目] nhìn mút mắt, xa tít tắp. Cao Bá Quát [高伯适] : Cực mục vân man man [極目雲漫漫] (Đạo phùng ngạ phu [道逢餓夫]) Nhìn mút mắt, mây mênh mang.\nKhen. Như danh mục [名目] được người khen.\nPhẩm đề. Như mục chi vi thần phẩm [目之爲神品] khen là cái phẩm thần, nghĩa là bình phẩm cho là quý lạ.\nĐiều kiện. Như khoa thi lấy học trò chia ra từng điều kiện gọi là khoa mục [科目].\nChia từng ngăn như trong cái lưới, ngoài giường lưới gọi là cương [綱], những mắt dây nhỏ gọi là mục [目]. Nói ví dụ về sự lớn nhỏ cùng ràng buộc nhau gọi là hoành cương tế mục [宏綱細目].\nMục lục, trên đầu sách liệt kê các mục trong sách gọi là mục lục [目錄].\nMột người thống suất một số đông người gọi là đầu mục [頭目].\nChỗ tinh thần thiết yếu.",
+            "answer": "目"
+        },
+        {
+            "type": "answer",
+            "front": "つき\nゲツ、ガツ\nNGUYỆT",
+            "back": "月\nNGUYỆT\nMặt trăng.\nTháng.",
+            "answer": "月"
+        },
+        {
+            "type": "answer",
+            "front": "つち\nド、ト\nTHỔ, ĐỘ, ĐỖ",
+            "back": "土\nTHỔ, ĐỘ, ĐỖ\nĐất. Như niêm thổ [黏土] đất thó, sa thổ [沙土]đất cát, v.v.\nĐất ở. Như hữu nhân thử hữu thổ [有人此有土] có người ấy có đất.\nVật gì chỉ ở đất ấy mới có gọi là thổ. Như thổ sản [土產], thổ nghi [土儀], v.v. Người sinh trưởng ở đất nào thì gọi người xứ ấy là thổ trước [土著].\nGiống thổ, người thổ. Dùng người thổ làm quan cai trị thổ gọi là thổ ty [土司].\nKhông hợp với sự ưa thích của đời cũng gọi là thổ, cũng như ta chê người không hợp thời-trang là giống mường, người mường vậy.\nTiếng thổ, một thứ tiếng trong bát âm.\nSao thổ.\nMột âm là độ. Như Tịnh-độ [淨土]. Theo trong kinh Phật thì cõi Tịnh-độ là một thế giới rất sạch sẽ sung sướng ở Tây-phương. Vì thế tôn phái tu cầu được vãng sinh về bên ấy gọi là tôn Tịnh-độ.\nLại một âm nữa là đỗ. Vò rễ cây dâu.",
+            "answer": "土"
+        },
+        {
+            "type": "answer",
+            "front": "ひ、-び、ほ-\nカ\nHỎA",
+            "back": "火\nHỎA\nLửa.\nCháy, nhà cửa bị lửa cháy gọi là hỏa tai [火災].\nPhép binh ngày xưa cứ mười người gọi là một hỏa. Người trong một hỏa gọi là hỏa bạn [火伴].\nKíp, khẩn cấp, sự gì cần kíp gọi là hỏa tốc [火速]. Phàm gặp sự gì khẩn cấp phải ra lệnh mau gọi là hỏa bài [火牌] hay hỏa phiếu [火票], v.v. cũng có nghĩa là khẩn cấp cả.\nGiận tức, tục gọi nổi giận là động hỏa [動火].\nSao hỏa.",
+            "answer": "火"
+        },
+        {
+            "type": "flash",
+            "front": "玉\nたま、たま-、-だま\nギョク",
+            "back": "玉\nNGỌC, TÚC\nNgọc, đá báu.\nĐẹp. Như ngọc diện [玉面] mặt đẹp như ngọc.\nDùng để nói các bậc tôn quý. Như ngọc thể [玉體] mình ngọc, ngọc chỉ [玉趾] gót ngọc, v.v.\nVo thành. Như vương dục ngọc nhữ [王欲玉女] (Thi Kinh [詩經]) vua muốn gây dựng cho mày thành tài.\nMột âm là túc. Người thợ ngọc.\nHọ Túc."
+        },
+        {
+            "type": "flash",
+            "front": "丸\nまる、まる.める、まる.い\nガン",
+            "back": "丸\nHOÀN\nViên, phàm vật gì nhỏ mà tròn đều gọi là hoàn. Như đạn hoàn [彈丸] viên đạn.\nThẳng thắn. Như tùng bách hoàn toàn [松柏丸全] cây tùng cây bách thẳng thắn."
+        },
+        {
+            "type": "flash",
+            "front": "犬\nいぬ、いぬ-\nケン",
+            "back": "犬\nKHUYỂN\nCon chó. Tào Đường [曹唐] : Nguyện đắc hoa gian hữu nhân xuất, Miễn linh tiên khuyển phệ Lưu Lang [願得花間有人出, 免令仙犬吠劉郎] (Lưu Nguyễn động trung ngộ tiên tử [劉阮洞中遇仙子]) Mong rằng trong hoa có người ra đón, Để chó nhà tiên khỏi sủa chàng Lưu. Ngô Tất Tố dịch thơ : Dưới hoa ước có ai ra đón, Để chó nhà tiên khỏi sủa người.\nNói ý hèn hạ. Kẻ dưới đối với kẻ trên có chút công lao tự nói nhún là khuyển mã chi lao [犬馬之勞] cái công chó ngựa."
+        },
+        {
+            "type": "flash",
+            "front": "本\nもと\nホン",
+            "back": "本\nBỔN, BẢN\nGốc, một cây gọi là nhất bổn [一本].\nCỗi rễ, cỗi nguồn, cái cỗi rễ của một sự gì gọi là bổn. Như xả bổn trục mạt [捨本逐末] bỏ cỗi rễ mà theo ngọn ngành.\nTrước, vốn. Như bổn ý [本意] ý trước của tôi.\nVốn lại (nguyên lai) dùng làm lời trợ từ. Như bổn cai như thử [本該如此] vốn lại phải như thế.\nCủa mình, bổn thân [本身] thân mình, bổn quốc [本國] nước mình, bổn vị [本位] cái địa vị của mình, bổn lĩnh [本領] cái năng lực của mình, không phải cầu gì ở ngoài, v.v.\nTiền vốn, tiền gốc. Như nhất bổn vạn lợi [一本萬利] một vốn muôn lời.\nPhép ngày xưa các tập sớ tâu vua cũng gọi là bổn.\nTập, sách vở tranh vẽ bìa thiếp đều gọi là bổn cả. Như khắc bổn [刻本] bản chữ khắc. Một quyển sách cũng gọi là nhất bổn [一本]. Ta quen đọc là chữ bản."
+        },
+        {
+            "type": "flash",
+            "front": "中\nなか、うち、あた.る\nチュウ",
+            "back": "中\nTRUNG, TRÚNG\nGiữa, chỉ vào bộ vị trong vật thể. Như trung ương [中央] chỗ giữa, trung tâm [中心] giữa ruột, v.v.\nTrong. Như đối với nước ngoài thì gọi nước mình là trung quốc [中國], đối với các tỉnh ngoài thì gọi chỗ kinh đô là trung ương [中央], v.v.\nỞ khoảng giữa hai bên cũng gọi là trung. Như thượng, trung, hạ [上中下] trên, giữa, dưới. Người đứng giữa giới thiệu cho hai người khác gọi là trung nhân [中人] cũng do một nghĩa ấy.\nNgay, không vẹo không lệch, không quá không thiếu, cũng gọi là trung. Như trung dong [中庸] đạo phải, trung hành [中行] làm phải, trung đạo [中道] đạo chân chính không thiên bên nào v.v.\nNửa, như trung đồ [中途] nửa đường, trung dạ [中夜] nửa đêm, v.v.\nChỉ chung tất cả các chỗ. Như Ngô trung [吳中] trong đất Ngô, Thục trung [蜀中] trong đất Thục, v.v.\nMột âm là trúng.Tin. Như bắn tin gọi là xạ trúng [射中], nói đúng gọi là ngôn trúng [言中], v.v.\nBị phải. Như trúng phong [中風] bị phải gió, trúng thử [中暑] bị phải nắng, v.v.\nHợp cách. Như thi cử lấy đỗ gọi là trúng thức [中式], đồ không dùng được gọi là bất trúng dụng [不中用], v.v.\nĐầy đủ. Như chế trúng nhị thiên thạch [制中二天石] phép đủ hai nghìn thạch.\nCùng âm nghĩa như chữ trọng [仲]. Như em thứ hai gọi là trọng đệ [中第]."
+        },
+        {
+            "type": "flash",
+            "front": "夕\nゆう\nセキ",
+            "back": "夕\nTỊCH\nBuổi chiều tối. Lý Thương Ẩn [李商隱] : Tịch dương vô hạn hảo  [夕陽無限好] (Đăng Lạc Du nguyên [登樂遊原]) Nắng chiều đẹp vô hạn.\nĐêm.\nTiếp kiến ban đêm.\nVẹo."
+        },
+        {
+            "type": "flash",
+            "front": "左\nひだり\nサ、シャ",
+            "back": "左\nTẢ, TÁ\nBên trái, phàm cái gì ở bên tay trái đều gọi là tả. Như hư tả dĩ đãi [虛左以待] để chừa bên trái xe để đợi người đến, ý nói cần dùng lắm.\nPhía đông. Cách định phương hướng cho phương đông là bên tay trái, nên sơn đông [山東] gọi là sơn tả [山左], giang đông [江東] gọi là giang tả [江左], v.v.\nBất tiện. Như tả kế [左計] kế không hay, hai bên không hợp nhau gọi là tương tả [相左].\nKhông được chính đính. Như tả đạo hoặc chúng [左道惑眾] đạo dối lừa chúng.\nGiáng xuống, quan bị giáng chức gọi là tả thiên [左遷].\nMột âm là tá. Giúp, cũng như chữ tá [佐].\nTiếng nói khiêm trong thư từ. Như dĩ ngu tá hữu [以娛左右] nghĩa là chỉ để làm vui cho người hầu hạ, chứ không dám nói ngay đến người mình nói vậy.\nChứng nghiệm. Như chứng tá [證左] người làm chứng."
+        },
+        {
+            "type": "flash",
+            "front": "正\nただ.しい、ただ.す、まさ、まさ.に\nセイ、ショウ",
+            "back": "正\nCHÁNH, CHÍNH\nPhải, là chánh đáng. Như chánh thức [正式] khuôn phép chánh đáng, chánh lý [正理] lẽ chánh đáng, v.v. Cái gì sai mà bảo sửa lại cho phải cũng gọi là chánh. Như khuông chánh [匡正] giúp đỡ làm cho chánh đáng.\nNgay, ở giữa. Như chánh diện [正面] mặt chánh, chánh tọa [正坐] ngồi chính giữa, chánh thinh [正廳] tòa ngồi chính giữa, v.v.\nNgay thẳng. Như công chánh [公正] công bằng ngay thẳng, các bậc hiền triết đời trước gọi là tiên chánh [先正] cũng theo nghĩa ấy.\nThuần chánh. Như chánh bạch [正白] trắng nguyên, chánh xích [正赤] đỏ nguyên, v.v.\nBực lớn nhất. Như nhạc chánh [樂正] chức quan đầu coi âm nhạc, công chánh [工正] chức quan đầu coi về công tác, v.v.\nChức chánh, bực chánh, chức chủ về một việc. Như chánh tổng [正總], phó tổng [副總] phụ giúp chánh tổng, chánh thất phẩm [正七品], tòng thất phẩm [從七品] kém phẩm chánh, v.v.\nĐúng giữa. Như tý chánh [子正] đúng giữa giờ tý, ngọ chánh [午正] đúng giữa giờ ngọ, v.v.\nTiếng giúp lời, nghĩa là, tức là. Như chánh duy đệ tử bất năng học dã [正惟弟子不能學也] tức là vì con không hay học vậy.\nVật để làm cớ.\nĐủ.\nChất chính.\nNgay ngắn.\nMong hẹn.\nPhần chính. Phần nhiều cũng đọc là chữ chính.\nMột âm là chính. Tháng đầu năm gọi là chính nguyệt [正月] tháng giêng. Ngày xưa các nhà vua họ này thay họ khác lên trị vì lại đổi tên riêng một ngày làm ngày đầu năm, nhà Thương thì dùng ngày sửu làm ngày đầu năm, v.v. gọi là chính sóc [正朔]. Ta quen đọc là chữ chính.\nCái đích tập bắn. Như chính hộc [正鵠] giữa đích, vì thế nên khuôn phép của một sự vật gì cũng gọi là chính hộc."
+        },
+        {
+            "type": "flash",
+            "front": "四\nよ、よ.つ、よっ.つ、よん\nシ",
+            "back": "四\nTỨ\nBốn (tên số đếm)."
+        },
+        {
+            "type": "flash",
+            "front": "王\nオウ、-ノウ",
+            "back": "王\nVƯƠNG, VƯỢNG\nVua.\nTước vương.\nTiếng gọi các tổ tiên. Như gọi ông là vương phụ [王父], bà là vương mẫu [王母], v.v.\nChư hầu đời đời lại chầu gọi là vương.\nTo, lớn.\nMột âm là vượng. Cai trị cả thiên hạ. Như dĩ đức hành nhân giả vượng [以德行仁者王] lấy đức làm nhân ấy được đến ngôi trị cả thiên hạ.\nThịnh vượng."
+        },
+        {
+            "type": "flash",
+            "front": "天\nあまつ、あめ、あま-\nテン",
+            "back": "天\nTHIÊN\nBầu trời.\nCái gì kết quả tự nhiên, sức người không thể làm được gọi là thiên. Như thiên nhiên [天然], thiên sinh [天生], v.v.\nNhà tôn giáo gọi chỗ các thần linh ở là thiên. Như thiên quốc [天國], thiên đường [天當], v.v.\nNgày. Như kim thiên [今天] hôm nay, minh thiên [明天] ngày mai.\nThì tiết trời. Như nhiệt thiên [熱天] trời nóng, lãnh thiên [冷天] trời lạnh.\nPhàm cái gì không thể thiếu được cũng gọi là thiên. Như thực vi dân thiên [食為民天] ăn là thứ cần của dân.\nĐàn bà gọi chồng là thiên, cũng gọi là sở thiên [所天].\nÔng trời, có nhiều nhà tu xưa cho trời là ngôi chúa tể cả muôn vật, giáng họa ban phúc đều quyền ở trời cả. Nhà Phật [佛] thì cho trời cũng là một loài có công tu thiện nhiều hơn, được sinh vào cõi đời sung sướng hơn người mà thôi.\nHình phạt khắc chữ chàm vào trán gọi là thiên [天]."
+        },
+        {
+            "type": "flash",
+            "front": "出\nで.る、-で、だ.す、-だ.す、い.でる、い.だす\nシュツ、スイ",
+            "back": "出\nXUẤT, XÚY\nRa ngoài, đối lại với chữ nhập [入] vào.\nMở ra. Như xuất khẩu thành chương [出口成章] mở miệng nên văn chương.\nBỏ, đuổi. Như xuất thê [出妻] bỏ vợ.\nSinh ra. Như nhân tài bối xuất [人才輩出] nhân tài ra nhiều.\nPhàm cái gì tự không mà ra có thì gọi là xuất. Như xú thái bách xuất [醜態百出] lộ ra trăm thói xấu.\nHiện ra. Như hà xuất đồ [河出圖] sông hiện ra bản đồ.\nHơn. Như xuất loại bạt tụy [出類拔萃] siêu việt hơn cả mọi người.\nTiêu ra. Như nhập bất phư xuất [入不敷出] số vào chẳng bằng số ra.\nMột âm là xúy. Phàm vật gì tự nó nó ra thì đọc là xuất, vật gì tự nó không ra mà cứ bắt ra thì đọc là xúy."
+        },
+        {
+            "type": "flash",
+            "front": "五\nいつ、いつ.つ\nゴ",
+            "back": "五\nNGŨ\nNăm, tên số đếm."
+        },
+        {
+            "type": "flash",
+            "front": "子\nこ、-こ、ね\nシ、ス、ツ",
+            "back": "子\nTỬ, TÍ\nCon. Bất luận trai gái đều gọi là tử.\nNhà thầy, đàn ông nào có đức hạnh học vấn đều gọi là tử cả. Như Khổng-tử [孔子], Mạnh-tử [孟子], v.v. Con cháu gọi người trước cũng gọi là tiên tử [先子], vợ gọi chồng là ngoại tử [外子], chồng gọi vợ là nội tử [內子] đều là tiếng xưng hô tôn quý cả.\nGã, dùng để gọi các kẻ tầm thường. Như chu tử [舟子] chú lái đò, sĩ tử [士子] chú học trò, v.v.\nTước tử, tước thứ tư trong năm tước.\nMầm giống các loài động vật thực vật cũng gọi là tử. Như ngư tử [魚子] giống cá, tàm tử [蠶子] giống tằm, đào tử [桃子] giống đào, lý tử [李子] giống mận, v.v.\nSố lẻ, đối với số nguyên mà nói. Như phần mẫu [分母], phần tử [分子]. Phần vốn là mẫu tài [母財], tiền lãi là tử kim [子金], v.v.\nTiếng giúp lời. Như tập tử [摺子] cái cặp, tráp tử [劄子] cái thẻ, v.v.\nCó nghĩa như chữ từ [慈].\nMột âm là Tí, chi đầu trong mười hai chi. Từ mười một giờ đêm đến một giờ đêm là giờ Tí."
+        },
+        {
+            "type": "flash",
+            "front": "手\nて、て-、-て、た-\nシュ、ズ",
+            "back": "手\nTHỦ\nTay.\nLàm. Như hạ thủ [下手] bắt tay làm, nhập thủ [入手] bắt tay vào, đắc thủ [得手] làm được việc, v.v.\nTài, làm nghề gì giỏi về nghề ấy gọi là thủ. Như quốc thủ [國手] tay có tài trị nước, năng thủ [能手] tay giỏi, v.v.\nTự tay làm ra. Như thủ thư [手書] chính tờ tay viết, thủ nhận [手刃] chính tay đâm, v.v.\nCầm."
+        },
+        {
+            "type": "flash",
+            "front": "目\nめ、-め、ま-\nモク、ボク",
+            "back": "目\nMỤC\nCon mắt.\nLườm, nhìn kỹ (trố mắt nhìn).  Như cực mục [極目] nhìn mút mắt, xa tít tắp. Cao Bá Quát [高伯适] : Cực mục vân man man [極目雲漫漫] (Đạo phùng ngạ phu [道逢餓夫]) Nhìn mút mắt, mây mênh mang.\nKhen. Như danh mục [名目] được người khen.\nPhẩm đề. Như mục chi vi thần phẩm [目之爲神品] khen là cái phẩm thần, nghĩa là bình phẩm cho là quý lạ.\nĐiều kiện. Như khoa thi lấy học trò chia ra từng điều kiện gọi là khoa mục [科目].\nChia từng ngăn như trong cái lưới, ngoài giường lưới gọi là cương [綱], những mắt dây nhỏ gọi là mục [目]. Nói ví dụ về sự lớn nhỏ cùng ràng buộc nhau gọi là hoành cương tế mục [宏綱細目].\nMục lục, trên đầu sách liệt kê các mục trong sách gọi là mục lục [目錄].\nMột người thống suất một số đông người gọi là đầu mục [頭目].\nChỗ tinh thần thiết yếu."
+        },
+        {
+            "type": "flash",
+            "front": "月\nつき\nゲツ、ガツ",
+            "back": "月\nNGUYỆT\nMặt trăng.\nTháng."
+        },
+        {
+            "type": "flash",
+            "front": "土\nつち\nド、ト",
+            "back": "土\nTHỔ, ĐỘ, ĐỖ\nĐất. Như niêm thổ [黏土] đất thó, sa thổ [沙土]đất cát, v.v.\nĐất ở. Như hữu nhân thử hữu thổ [有人此有土] có người ấy có đất.\nVật gì chỉ ở đất ấy mới có gọi là thổ. Như thổ sản [土產], thổ nghi [土儀], v.v. Người sinh trưởng ở đất nào thì gọi người xứ ấy là thổ trước [土著].\nGiống thổ, người thổ. Dùng người thổ làm quan cai trị thổ gọi là thổ ty [土司].\nKhông hợp với sự ưa thích của đời cũng gọi là thổ, cũng như ta chê người không hợp thời-trang là giống mường, người mường vậy.\nTiếng thổ, một thứ tiếng trong bát âm.\nSao thổ.\nMột âm là độ. Như Tịnh-độ [淨土]. Theo trong kinh Phật thì cõi Tịnh-độ là một thế giới rất sạch sẽ sung sướng ở Tây-phương. Vì thế tôn phái tu cầu được vãng sinh về bên ấy gọi là tôn Tịnh-độ.\nLại một âm nữa là đỗ. Vò rễ cây dâu."
+        },
+        {
+            "type": "flash",
+            "front": "火\nひ、-び、ほ-\nカ",
+            "back": "火\nHỎA\nLửa.\nCháy, nhà cửa bị lửa cháy gọi là hỏa tai [火災].\nPhép binh ngày xưa cứ mười người gọi là một hỏa. Người trong một hỏa gọi là hỏa bạn [火伴].\nKíp, khẩn cấp, sự gì cần kíp gọi là hỏa tốc [火速]. Phàm gặp sự gì khẩn cấp phải ra lệnh mau gọi là hỏa bài [火牌] hay hỏa phiếu [火票], v.v. cũng có nghĩa là khẩn cấp cả.\nGiận tức, tục gọi nổi giận là động hỏa [動火].\nSao hỏa."
+        }
+    ]
+}
